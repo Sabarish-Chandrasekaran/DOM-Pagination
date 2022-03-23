@@ -1,7 +1,7 @@
 //heading
 let header = document.createElement("div");
 header.innerHTML = "DOM-PAGINATION";
-header.className = "h2 text-center bg-dark text-warning mt-5 mx-5 p-3";
+header.className = "h1 text-center bg-dark text-warning mt-5 mx-5 p-3";
 
 //table made using XMLHttpRequest,called json inside table.
 let main = document.createElement("div");
